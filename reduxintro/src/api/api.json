@@ -1,0 +1,135 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "Modern Web Geliştirme Kursu",
+        "courseImageUrl":"https://miro.medium.com/max/512/1*_wA9xgs4CFH9WHWWrwDuWA.jpeg",
+        "coursePoint": 9.6,
+        "courseTeacherId":1
+      },
+      {
+        "id": 2,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "NodeJS Web Geliştirme Kursu",
+        "courseImageUrl":"https://aashonline.com/account/templates/themewp/img/services/node_development.png",
+        "coursePoint": 8.8,
+        "courseTeacherId":2
+      },
+      {
+        "id": 3,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "Java Geliştirici Kursu",
+        "courseImageUrl":"https://www.satechdigital.com/images/java-web.png",
+        "coursePoint": 9.2,
+        "courseTeacherId":1
+      },
+      {
+        "id": 4,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "python Geliştirici Kursu",
+        "courseImageUrl":"https://cogdina.com/wp-content/uploads/2019/12/python-development-service-banner.png",
+        "coursePoint": 8.6,
+        "courseTeacherId":6
+      },
+      {
+        "id": 5,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "Django Profesyonel Web Geliştirme Kursu",
+        "courseImageUrl":"https://1.bp.blogspot.com/-ds_3jKXqciQ/X7A-SB6wXnI/AAAAAAAAB0c/Z0k4w3yw7m8omaNhE_1CevbsIiv99bM8wCLcBGAsYHQ/s16000/django.jpg",
+        "coursePoint": 8.9,
+        "courseTeacherId":3
+      },
+      {
+        "id": 6,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "Uçtan Uca Sql Server Eğitimi",
+        "courseImageUrl":"https://assets-eu-01.kc-usercontent.com/665ad26e-74b6-0197-a66f-4ff80d2ded6b/27ae6216-ff4c-40cb-9f43-e823df033757/database%20development%20solutions%20for%20business.png",
+        "coursePoint": 8.2,
+        "courseTeacherId":4
+      },
+      {
+        "id": 7,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "Javascript Geliştirici Kursu",
+        "courseImageUrl":"http://www.magicdesignlabs.com/dev/wp-content/uploads/2015/12/node-js-development.jpg",
+        "coursePoint": 8.9,
+        "courseTeacherId":1
+      },
+      {
+        "id": 8,
+        "categoryName": "Yabancı Dil - İngilizce",
+        "courseName": "Özel Ders Formatında İngilizce Eğitim Seti",
+        "courseImageUrl":"https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_739,h_414/https://blog.konusarakogren.com/wp-content/uploads/2017/01/maxresdefault-739x414.jpg",
+        "coursePoint": 8.9,
+        "courseTeacherId":5
+      },
+      {
+        "id": 9,
+        "categoryName": "Yazılım Geliştirme",
+        "courseName": "100 + Saat Aranan Programcı Olma Kursu",
+        "courseImageUrl":"https://disfold.com/wp-content/uploads/2020/01/online-courses-computer-programming.jpg",
+        "coursePoint": 9.3,
+        "courseTeacherId":6
+      },
+      {
+        "id": 10,
+        "categoryName": "Yabancı Dil - İngilizce",
+        "courseName": "İngilizce Kelime Kursu",
+        "courseImageUrl":"https://www.etca.center/wp-content/uploads/2015/11/06-English.jpg",
+        "coursePoint": 9.1,
+        "courseTeacherId":5
+      }
+
+    ],
+    "teachers": [
+      {
+        "id": 1,
+        "firstName": "Mustafa Murat",
+        "lastName":"Coşkun",
+        "imageUrl": "https://img-c.udemycdn.com/user/200_H/13705656_63c9_8.jpg",
+        "point":8.8,
+        "totelStudent":187653
+      },
+      {
+        "id": 2,
+        "firstName": "Emre",
+        "lastName":"Altunbilek",
+        "imageUrl": "https://img-c.udemycdn.com/user/200_H/754995_d153_3.jpg",
+        "point":7.9,
+        "totelStudent":45695
+      },
+      {
+        "id": 3,
+        "firstName": "Oğuzhan",
+        "lastName":"Çelikarslan",
+        "imageUrl": "https://img-b.udemycdn.com/user/200_H/27946596_a4d6.jpg",
+        "point":8.2,
+        "totelStudent":68512
+      },
+      {
+        "id": 4,
+        "firstName": "Ömer",
+        "lastName":"Çolakoğlu",
+        "imageUrl": "https://img-c.udemycdn.com/user/200_H/22769434_bbe5_4.jpg",
+        "point":7.9,
+        "totelStudent":39625
+      },
+      {
+        "id": 5,
+        "firstName": "Seçkin",
+        "lastName":"Esen",
+        "imageUrl": "https://img-c.udemycdn.com/user/200_H/41292860_4772_3.jpg",
+        "point":8.5,
+        "totelStudent":88236
+      },
+      {
+        "id": 6,
+        "firstName": "Engin",
+        "lastName":"Demiroğ",
+        "imageUrl": "https://img-c.udemycdn.com/user/200_H/1022806_b87b_6.jpg",
+        "point":8.8,
+        "totelStudent":214506
+      }
+    ]
+  }
